@@ -1,0 +1,62 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "motor": "Revo FI",
+      "cc": "109.17 ",
+      "tahun": "2017",
+      "gambar": "https://www.otomaniac.com/wp-content/uploads/2015/09/Spesifikasi-dan-Harga-Honda-Revo-FI.jpg",
+      "harga": "16800000"
+    },
+    {
+      "id": 2,
+      "motor": "New Honda Beat",
+      "cc": "109.5",
+      "tahun": "2021",
+      "gambar": "https://w7.pngwing.com/pngs/57/523/png-transparent-pink-honda-beat-motor-scooter-honda-beat-fuel-injection-car-scooter-scooter-motorcycle-vehicle-honda-cbr150r.png",
+      "harga": "17500000"
+    },
+    {
+      "id": 3,
+      "motor": "New Honda Vario",
+      "cc": "150",
+      "tahun": "2021",
+      "gambar": "https://assetcdnendpoint.azureedge.net/uploads/product/meta/thumbnail-upload-6-17102021-113750.png",
+      "harga": "17670000"
+    },
+    {
+      "id": 4,
+      "motor": "Scoopy Genio",
+      "cc": "110",
+      "tahun": "2019",
+      "gambar": "https://cdn.idntimes.com/content-images/post/20190622/genio1-97dbbcec473f1b883b5bcaa424349914.JPG",
+      "harga": "17000000"
+    }
+  ],
+  "beli": [
+    {
+      "motor": "New Honda Vario",
+      "dp": "30",
+      "angsuran": 441750,
+      "bulanAngsuran": "12",
+      "totalHarga": "17670000",
+      "id": 1
+    },
+    {
+      "motor": "Scoopy Genio",
+      "dp": "30",
+      "angsuran": 212500,
+      "bulanAngsuran": "24",
+      "totalHarga": "17000000",
+      "id": 2
+    },
+    {
+      "motor": "CBR250RR",
+      "dp": "30",
+      "angsuran": 910000,
+      "bulanAngsuran": "24",
+      "totalHarga": "72800000",
+      "id": 3
+    }
+  ]
+}
