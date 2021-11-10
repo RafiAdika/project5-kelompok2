@@ -231,6 +231,7 @@ export default {
       depe: "",
       angsuran: "",
       bulan: "",
+      dataVariables: "",
       selected: "",
       isCreated: true,
       options: [
